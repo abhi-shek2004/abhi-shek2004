@@ -15,8 +15,8 @@
 <br/><br/>
 
 <!-- ── SOCIAL BADGES ──────────────────────────────────────────────── -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Interactive_Site-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-site-alpha-liart.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-shek2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Interactive_Site-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-flame-ten-ilsayelsg0.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-raj-b661ab290/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi-shek2004)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekrajofficial7@gmail.com)
 
