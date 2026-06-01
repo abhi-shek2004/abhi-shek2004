@@ -260,7 +260,7 @@ abhishek@systems:~$ cat ARCHITECTURE_PHILOSOPHY.md
 
 <br/>
 
-<img`🏆 src="https://streak-stats.demolab.com?user=abhi-shek2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=8B5CF6&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=475569" />
+<img src="https://streak-stats.demolab.com?user=abhi-shek2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=8B5CF6&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=475569" />
 
 <br/>
 
