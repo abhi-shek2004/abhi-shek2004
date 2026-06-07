@@ -366,8 +366,8 @@ abhishek@systems:~$ cat ARCHITECTURE_PHILOSOPHY.md
 ### `📊 GitHub Analytics`
 
 <!-- Unified theme widgets -->
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhi-shek2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&count_private=true" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-shek2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&langs_count=8" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=abhi-shek2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&count_private=true" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhi-shek2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&langs_count=8" />
 
 <br/><br/>
 
